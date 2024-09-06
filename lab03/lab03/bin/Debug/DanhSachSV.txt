@@ -1,0 +1,3 @@
+SV.12345*Đoàn Cao Nhật Hạ*02/06/2002*Đà Lạt,Lâm Đồng*CTK31**0*Kỹ thuật phần mềm,Công nghệ phần mềm,Hệ thống thông tin
+SV.12634*Trần Bảo Lâm*26/09/2002*Vạn Kiếp, Lâm Đồng*CTK32**1*Công nghệ phần mềm,Trí tuệ nhân tạo,Tin học ứng dụng
+SV.02062*Hoàng Thanh Hà*01/06/2003*Đà Lạt, Lâm Đồng*CTK32**1*Công nghệ phần mềm,Khoa học máy tính,Tin học ứng dụng 

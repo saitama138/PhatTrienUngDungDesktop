@@ -1,0 +1,14 @@
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.Demo.resources
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.FrmGiaoVien.resources
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.frmTBGiaoVien.resources
+E:\Phát triển ứng dụng desktop\Lab2\Lab2\obj\Debug\Lab2.TimKiem.resources

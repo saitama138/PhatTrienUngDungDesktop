@@ -1,0 +1,11 @@
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\bin\Debug\Lab04.exe.config
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\bin\Debug\Lab04.exe
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\bin\Debug\Lab04.pdb
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.csproj.SuggestedBindingRedirects.cache
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.frmQLSV.resources
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.exe
+E:\Phát triển ứng dụng desktop\Lab04\Lab04\obj\Debug\Lab04.pdb
